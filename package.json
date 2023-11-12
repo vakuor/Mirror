@@ -1,11 +1,9 @@
 {
   "name": "com.mirror.mirror",
-  "displayName": "mirror",
-  "version": "1.2.0",
-  "unity": "2018.3",
-  "description": "Sensible Unity/C# Configuration",
-  "keywords": [ "config", "file", "data" ],
-  "category": "penis lmao",
+  "displayName": "Mirror",
+  "version": "84.0.3",
+  "unity": "2021.3.29",
+  "description": "Mirror",
   "dependencies": {
   }
 }
